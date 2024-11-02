@@ -1,0 +1,15 @@
+p.bohemiaa a {
+	text-decoration: none;
+	font-style: italic;
+	color: #666;
+	font-size:12px;
+}
+
+p.bohemiaa a:hover {
+	text-decoration: underline;
+}
+
+
+p.bohemiaa img {
+	margin: 1px 5px 0 0;
+}
